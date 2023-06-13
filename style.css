@@ -104,8 +104,8 @@ a {
   }
   .about-image img {
     padding-top: 10px;
-    width: 50%;
-    height: 30vh;
+    width: 25%;
+    height: 25vh;
     border: 5px solid linear-gradient(to top right, #996633 0%, #666633 100%);
     border-radius: 50%;
     background: linear-gradient(to top right, #996633 0%, #666633 100%);
