@@ -102,6 +102,14 @@ a {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
     animation: rotateAnimation 10s infinite linear;
   }
+  .about-image img {
+    padding-top: 10px;
+    width: 50%;
+    height: 30vh;
+    border: 5px solid linear-gradient(to top right, #996633 0%, #666633 100%);
+    border-radius: 50%;
+    background: linear-gradient(to top right, #996633 0%, #666633 100%);
+  }
 }
 
 /* header content ends here  */
